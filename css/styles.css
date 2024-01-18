@@ -8,8 +8,11 @@
 
 body {
   background-image: url("../img/bg.jpg");
-  background-position: center;
+  background-position: absolute;
   background-size: cover;
+}
+html {
+  height: 100vh;
 }
 
 button {
